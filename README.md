@@ -2,15 +2,15 @@
 
 SinKry is a custom Codex pet package with expressive idle, running, waiting, review, and coding states.
 
-Version `v1.1` adds a lazy idle sequence: SinKry gradually shifts from calm standing to slouching, while the waiting state shows a stable lying-down rest animation.
+Version `v1.2` changes long idle behavior to a static lazy mode: SinKry stays slouched or lying down with only a tiny breathing motion, closer to the QQ Pet style.
 
 ![SinKry contact sheet](previews/contact-sheet.png)
 
 ## Preview
 
-| Lazy idle | Waiting | Coding |
+| Static lazy idle | Lying waiting | Coding |
 | --- | --- | --- |
-| ![Lazy idle preview](previews/idle.gif) | ![Waiting preview](previews/waiting.gif) | ![Coding preview](previews/coding.gif) |
+| ![Static lazy idle preview](previews/idle.gif) | ![Lying waiting preview](previews/waiting.gif) | ![Coding preview](previews/coding.gif) |
 
 ## Install
 
